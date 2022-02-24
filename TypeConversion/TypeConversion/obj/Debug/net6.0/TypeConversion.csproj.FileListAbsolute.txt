@@ -1,0 +1,15 @@
+C:\Users\medin\source\repos\TypeConversion\TypeConversion\bin\Debug\net6.0\TypeConversion.exe
+C:\Users\medin\source\repos\TypeConversion\TypeConversion\bin\Debug\net6.0\TypeConversion.deps.json
+C:\Users\medin\source\repos\TypeConversion\TypeConversion\bin\Debug\net6.0\TypeConversion.runtimeconfig.json
+C:\Users\medin\source\repos\TypeConversion\TypeConversion\bin\Debug\net6.0\TypeConversion.dll
+C:\Users\medin\source\repos\TypeConversion\TypeConversion\bin\Debug\net6.0\ref\TypeConversion.dll
+C:\Users\medin\source\repos\TypeConversion\TypeConversion\bin\Debug\net6.0\TypeConversion.pdb
+C:\Users\medin\source\repos\TypeConversion\TypeConversion\obj\Debug\net6.0\TypeConversion.csproj.AssemblyReference.cache
+C:\Users\medin\source\repos\TypeConversion\TypeConversion\obj\Debug\net6.0\TypeConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\medin\source\repos\TypeConversion\TypeConversion\obj\Debug\net6.0\TypeConversion.AssemblyInfoInputs.cache
+C:\Users\medin\source\repos\TypeConversion\TypeConversion\obj\Debug\net6.0\TypeConversion.AssemblyInfo.cs
+C:\Users\medin\source\repos\TypeConversion\TypeConversion\obj\Debug\net6.0\TypeConversion.csproj.CoreCompileInputs.cache
+C:\Users\medin\source\repos\TypeConversion\TypeConversion\obj\Debug\net6.0\TypeConversion.dll
+C:\Users\medin\source\repos\TypeConversion\TypeConversion\obj\Debug\net6.0\ref\TypeConversion.dll
+C:\Users\medin\source\repos\TypeConversion\TypeConversion\obj\Debug\net6.0\TypeConversion.pdb
+C:\Users\medin\source\repos\TypeConversion\TypeConversion\obj\Debug\net6.0\TypeConversion.genruntimeconfig.cache
